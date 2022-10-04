@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186819922788",
+    "firebase_url": "https://casa-por-temporada-cc555-default-rtdb.firebaseio.com",
+    "project_id": "casa-por-temporada-cc555",
+    "storage_bucket": "casa-por-temporada-cc555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186819922788:android:35d0a8892ed16d804e0871",
+        "android_client_info": {
+          "package_name": "com.lucascalderon1.casaportemporada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186819922788-hob5d8753bhgufkcmcbacog3019ev35u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnBfNG5GvPEKJFiuaMMxQnAbViip-pa1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186819922788-hob5d8753bhgufkcmcbacog3019ev35u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

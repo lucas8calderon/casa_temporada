@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/drawable-v24/ic_voltar_branco.xml" value="0.212" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/drawable/bg_btn.xml" value="0.3185" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/drawable/bg_edit.xml" value="0.3185" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/activity_criar_conta.xml" value="0.31875" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/activity_detalhe_anuncio.xml" value="0.3359375" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/activity_filtrar_anuncios.xml" value="0.3359375" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/activity_form_anuncio.xml" value="0.3359375" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/activity_login.xml" value="0.3359375" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/activity_main.xml" value="0.31875" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/activity_meus_anuncios.xml" value="0.3359375" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/activity_minha_conta.xml" value="0.31875" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/activity_recuperar_conta.xml" value="0.31875" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/item_anuncio.xml" value="0.33489583333333334" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/toolbar_main_activity.xml" value="0.33489583333333334" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/toolbar_voltar.xml" value="0.33489583333333334" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/toolbar_voltar_add.xml" value="0.3359375" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/layout/toolbar_voltar_salvar.xml" value="0.3359375" />
+        <entry key="..\:/CasaPorTemporada/app/src/main/res/menu/menu_home.xml" value="0.3359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
