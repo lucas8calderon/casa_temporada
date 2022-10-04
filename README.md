@@ -50,7 +50,7 @@
 
 ## 📖 Sobre
 
-A proposta do projeto é a criação de um app que armazena produtos em um estoque, salvando a quantidade, valor e descrição.
+A proposta do projeto é a criação de um app que armazena casas/imoveis para locação e venda.
 O aplicativo é capaz de cadastrar e atualizar produtos em tempo real, alem de imagens. Tambem é possivel recuperar a conta enviando um e-mail para o usuário cadastrado.
 Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de aprimorar os conhecimentos em desenvolvimento de android nativo.
 
@@ -62,17 +62,20 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 
 - Android Studio
 - Java
-- Splash Activity
 - XML
 - Intents
 - Bundle
 - Navegação entre Activities
+- Dados entre Activities
 - Lógica de Programação
-- POO
-- Dialog
+- Pogramação Orientada a Objetos
+- Alert Dialog
 - RecyclerView
 - Banco de Dados
 - Firebase (Realtime e Storage)
+- Swipe
+- Picasso
+- 
 
 
 ---
